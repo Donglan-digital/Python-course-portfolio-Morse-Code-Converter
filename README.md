@@ -1,4 +1,4 @@
-# Python_Day 82 Assignment: Text to Morse Code Converter
+# Python Day 82 Assignment: Text to Morse Code Converter
 This is a repository for keeping the assignment of the course "100 Days of Code: The Complete Python Pro Bootcamp".
 
 Day 82 Assignment instructions:
